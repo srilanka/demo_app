@@ -1,1 +1,1 @@
-Learning Rails - A Demo Application Using Scaffolding
+# Learning Rails - A Demo Application Using Scaffolding
